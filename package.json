@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "tabletojson": "^2.0.7"
+  },
+  "name": "kamar-notices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chezzzer/kamar-notices.git",
+  "author": "Chezzer-ub <46093784+chezzzer@users.noreply.github.com>",
+  "license": "MIT"
+}
